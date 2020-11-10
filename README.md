@@ -33,6 +33,7 @@ The running application can be accessed [`here`](https://cocky-bassi-e492e5.netl
 - Improve performance
 - Refactor code
 - Improve testing
+- Improve UI
 
 ## Authour
 
