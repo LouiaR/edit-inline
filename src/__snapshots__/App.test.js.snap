@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshots App snapshot 1`] = `
+<AppContextProvider
+  value={
+    Object {
+      "setState": [Function],
+      "state": Object {
+        "error": false,
+        "isEditing": false,
+        "isLoading": false,
+        "message": "",
+        "text": "Hello World",
+      },
+    }
+  }
+>
+  <Memo(l) />
+  <styled.img
+    alt="logo"
+    src="CSoftware_logo_Neg.svg"
+  />
+  <Editable />
+</AppContextProvider>
+`;
